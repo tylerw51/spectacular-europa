@@ -7,7 +7,6 @@ sections:
     actions: []
     image: images/SMPTE Color Bars (Cropped).png
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
