@@ -4,10 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image_alt: App preview
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
+    actions: []
   - section_id: features
     type: section_features
     background: gray
