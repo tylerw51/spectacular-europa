@@ -5,7 +5,6 @@ sections:
     type: section_hero
     image_alt: App preview
     actions: []
-    image: images/SMPTE Color Bars (Cropped).png
   - section_id: features
     type: section_features
     background: gray
