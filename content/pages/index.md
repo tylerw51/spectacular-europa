@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Tyler Solon Williams
 sections:
   - section_id: hero
     type: section_hero
