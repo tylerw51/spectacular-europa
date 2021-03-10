@@ -11,10 +11,8 @@ sections:
     title: About
     features:
       - image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: |
+          Tyler brief one-paragraph bio
         actions:
           - label: Learn More
             url: /features
