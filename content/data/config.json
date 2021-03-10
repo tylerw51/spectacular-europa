@@ -33,7 +33,7 @@
                 "style": "primary"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Test",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
