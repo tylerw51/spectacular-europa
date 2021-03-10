@@ -6,11 +6,6 @@ sections:
     image_alt: App preview
     actions: []
     image: images/SMPTE Color Bars (Cropped).png
-  - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    actions: []
-    type: section_hero
-    image: images/terrific-avocado.png
   - section_id: features
     type: section_features
     background: gray
